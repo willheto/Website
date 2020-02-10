@@ -1,0 +1,150 @@
+body {
+	font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';	
+	color: #000000;
+	background-color: #FCF6F5FF;
+	
+}	
+
+hr {
+	width: 1100px;
+	margin-left: 300px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #343a40;
+ 
+}
+
+h1 {
+  font-size: 6rem;
+  line-height: 5.5rem;
+  
+}
+
+#moremargintop {
+	margin-top: 150px;
+	width: 1100px;
+}
+
+
+h2 {
+  font-size: 3.5rem;
+  margin-bottom: 40px;
+}
+
+h3 {
+	font-size: 2rem;
+	margin: 0;
+	margin-top: 50px;
+}
+
+h4 {
+	font-size: 1.5rem;
+	margin: 0;
+}
+
+p.lead {
+	font-size: 1.15rem;
+	font-weight: 400;
+}
+
+.navbar {
+	width: 250px;
+	background-color: #008cc9;
+	height: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	display: flex;
+	align-items: center;
+
+
+}
+
+
+
+.centered {
+
+
+}
+
+.introduction {
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left: 300px;
+	width: 1100px;
+}
+.LI-profile-badge {
+	float: left;
+	margin-right: 8px;
+}
+
+.education {
+	margin-top: 80px;
+	margin-bottom: 80px;
+	width: 1150px;
+	margin-left: 300px;
+}
+
+.experience {
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left: 300px;
+	width: 1150px;
+}
+
+.projects {
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left: 300px;
+	width: 1150px;
+}
+
+.skills {
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left: 300px;
+
+}
+
+.time {
+	float: right;
+	width: 140px;
+	height: 100px;
+	margin-top: 7px;
+}
+
+
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	
+
+}
+
+li { 
+	
+	font-size: 2rem;
+}
+
+li a {
+	display: block;
+	color: white;
+	
+	padding: 14px 16px;
+	text-decoration: none;
+
+}
+
+li a:hover {
+	color: #343a40;
+}
