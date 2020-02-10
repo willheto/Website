@@ -1,2 +1,2 @@
 # Website
-My website
+My website mostly to act as an resume with projects.
